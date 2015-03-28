@@ -1,0 +1,4 @@
+<batch-artifacts xmlns="http://xmlns.jcp.org/xml/ns/javaee">
+    <ref id="myBatchlet" class="app.MyBatchlet"/>
+    <ref id="myDecider" class="app.MyDecider"/>
+</batch-artifacts>
